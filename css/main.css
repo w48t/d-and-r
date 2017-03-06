@@ -176,10 +176,22 @@ header .social li:first-child{
 
 }
 	
-header #facebook-logo{
-	width: 10px;
+header #fbook-img {
+	width: 40px;
+	margin-top: -8px;
 }
 
+header #twitter-logo {
+	width: 95px;
+	margin-top: -9.5px;
+	margin-left: -17px !important;
+}
+
+header #ilogo {
+	width: 30px;
+	margin-top: -2.5px;
+	margin-left: -17px !important;
+}
 
 
 
