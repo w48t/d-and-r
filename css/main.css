@@ -158,7 +158,7 @@ header nav li a{
 header nav li a:hover,
 header nav li a:focus{
 	text-decoration: none;
-	color: #ba9ee6!important;
+	color: #AFEEEE!important;
 }
 
 header .social{
@@ -230,7 +230,7 @@ header #ilogo {
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: bold;
-	word-break: break-word;
+	word-break: break-all;
 }
 
 .hero .caption p{
@@ -249,21 +249,21 @@ a.app_store_btn{
 	display: inline-block;
 	text-decoration: none;
 	padding: 15px 40px;
-	border: 2px solid #AAA;
+	border: 2px solid #FFF;
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	margin: 20px 20px 10px 0;
 
-	color: #AAAAAA;
+	color: #FFF;
 	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 }
 
 a.app_store_btn:hover,
 a.app_store_btn:focus{
-	border-color: #ba9ee6;
-	color: #ba9ee6!important;
+	border-color: #AFEEEE;
+	color: #AFEEEE!important;
 }
 
 a.app_link{
@@ -407,11 +407,14 @@ a.main_link{
 	display: inline-block;
 }
 
+#play_video {
+	color: #525151;
+	border-color: #525151;
+}
 
-
-
-
-
+#play_video:hover {
+	border-color: #AFEEEE;
+}
 
 
 
@@ -650,6 +653,16 @@ a.main_link{
 .product-cta #error_msg,
 .product-cta #success_msg{
 	display: none;
+}
+
+#shop-now {
+	color: #525151!important;
+	border-color: #525151!important;
+}
+
+#shop-now:hover {
+	color: #AFEEEE!important;
+	border-color: #AFEEEE!important;
 }
 
 
