@@ -208,10 +208,12 @@ header #ilogo {
 	display: block;
 	position: relative;
 	width: 100%;
-	height: 540px;
+	height: 800px;
   /* CHANGE Hero Image */
 	background: url('../img/team.jpg') no-repeat fixed center center;
 	background-size: cover;
+	
+	
 }
 
 .hero .caption{
@@ -252,7 +254,7 @@ a.app_store_btn{
 	border: 2px solid #FFF;
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
-	border-radius: 2px;
+	border-radius: 20px;
 	margin: 20px 20px 10px 0;
 
 	color: #FFF;
@@ -335,6 +337,12 @@ a.main_link{
 .about .aboutImage img{
 	width: 100%;
 	height: auto;
+}
+
+.about #our-image {
+	padding: 70px 0px 0px 0px;
+	width: 600px!important;
+	margin-left: -200px
 }
 
 .about .features_list{
