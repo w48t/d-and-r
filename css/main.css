@@ -91,6 +91,12 @@ header{
 	background-color: #90ACB5;
 }
 
+header #web-logo {
+	width: 125px;
+	margin-top: 8px;
+	margin-left: -150px;
+}
+
 header .logo{
 	display: table-cell;
 	margin: 20px 100px 0 0;
