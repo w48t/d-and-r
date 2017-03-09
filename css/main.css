@@ -93,8 +93,8 @@ header{
 
 header #web-logo {
 	width: 125px;
-	margin-top: 8px;
-	margin-left: -150px;
+	margin-top: 10px;
+	margin-left: -150px!important;
 }
 
 header .logo{
@@ -210,16 +210,24 @@ header #ilogo {
 
 /*		Hero section 		*/
 
-.hero{
+.hero {
 	display: block;
-	position: relative;
+	position: center;
 	width: 100%;
-	height: 800px;
+	height: 620px;
   /* CHANGE Hero Image */
-	background: url('../img/team.jpg') no-repeat fixed center center;
-	background-size: cover;
+	background: url('../img/team.png') no-repeat fixed center center;
+	background-size: contain;
 	
 	
+}
+
+#hero-title {
+	margin-left: -200px!important;
+}
+
+#hero-button {
+	margin-left: -200px!important;
 }
 
 .hero .caption{
