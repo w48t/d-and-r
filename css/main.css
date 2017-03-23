@@ -88,7 +88,7 @@ header{
 	height: 130px;
 	z-index: 99;
   /* CHANGE HEADER COLOR */
-	background-color: #90ACB5;
+    background-color: #90ACB5!important;
 }
 
 header #web-logo {
@@ -694,7 +694,7 @@ footer{
 	padding: 50px 0;
 	text-align: center;
   /*CHANGE FOOTER BACKGROUND COLOR*/
-  background-color: #eaeaea;
+  background-color: #90ACB5;
 }
 
 footer .app_platform li{
