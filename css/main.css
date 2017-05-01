@@ -217,7 +217,7 @@ header #ilogo {
 	height: 620px;
   /* CHANGE Hero Image */
 	background: url('../img/team.jpg') no-repeat fixed center center;
-	background-size: contain;
+	background-size: cover;
 	
 	
 }
