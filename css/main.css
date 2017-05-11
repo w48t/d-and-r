@@ -334,7 +334,7 @@ a.main_link{
 }
 /* CHANGE About Image */
 .about .aboutImage{
-	max-width: 339px;
+	max-width: 330px;
 	position: relative;
 	display: inline-block;
 	text-align: center;
@@ -670,23 +670,6 @@ a.main_link{
 .product-cta #success_msg{
 	display: none;
 }
-
-#shop-now {
-	color: #525151!important;
-	border-color: #525151!important;
-}
-
-#shop-now:hover {
-	color: #AFEEEE!important;
-	border-color: #AFEEEE!important;
-}
-
-
-
-
-
-
-
 
 
 
