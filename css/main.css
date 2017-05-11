@@ -352,7 +352,8 @@ a.main_link{
 }
 
 .about .features_list{
-	margin-left: 50px;
+	margin-left: 80px;
+	text-align: left;
 }
 
 .about .features_list h1{
@@ -422,6 +423,7 @@ a.main_link{
 }
 
 #play_video {
+	margin-left: 110px;
 	color: #525151;
 	border-color: #525151;
 }
